@@ -7,6 +7,7 @@ public class ClassC {
 	public void demoTest3() {
 		System.out.println("fifth push");
 		System.out.println("seventh push");
+		
 	}
 
 }
