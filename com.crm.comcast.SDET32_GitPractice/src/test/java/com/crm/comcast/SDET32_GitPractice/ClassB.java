@@ -9,5 +9,7 @@ public class ClassB {
 		
 		System.out.println("puch 2");
 		System.out.println("puch 3");
+		System.out.println("puch 4");
+
 	}
 }
